@@ -14,11 +14,11 @@ O layout é totalmente responsivo, adaptando-se bem a diferentes tamanhos de tel
 
 ## Preview
 
-<div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
-  <div style="flex: 7;">
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; flex-wrap: nowrap;">
+  <div style="flex: 7; min-width: 0;">
     <img src="images/qr-code-desktop.jpeg" alt="Preview desktop" style="height: 300px; object-fit: cover; width: 100%;"/>
   </div>
-  <div style="flex: 3;">
+  <div style="flex: 3; min-width: 0;">
     <img src="images/qr-code-mobile.jpeg" alt="Preview mobile" style="height: 300px; object-fit: cover; width: 100%;"/>
   </div>
 </div>
