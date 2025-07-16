@@ -14,7 +14,8 @@ O layout é totalmente responsivo, adaptando-se bem a diferentes tamanhos de tel
 
 ## Preview
 
-![Preview do projeto](images/qr-code-desktop.jpeg)
+![Preview do projeto](images/qr-code-desktop.jpeg) 
+![Preview do projeto](images/qr-code-mobile.jpeg)
 
 ## Como usar este projeto
 
