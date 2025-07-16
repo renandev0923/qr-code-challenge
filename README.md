@@ -14,9 +14,9 @@ O layout é totalmente responsivo, adaptando-se bem a diferentes tamanhos de tel
 
 ## Preview
 
-<div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="images/qr-code-desktop.jpeg" alt="Preview desktop" width="300"/>
-  <img src="images/qr-code-mobile.jpeg" alt="Preview mobile" width="300"/>
+<div style="display: flex; gap: 0.5rem; justify-content: center;">
+  <img src="images/qr-code-desktop.jpeg" alt="Preview desktop" width="50%"/>
+  <img src="images/qr-code-mobile.jpeg" alt="Preview mobile" width="50%"/>
 </div>
 
 ## Como usar este projeto
